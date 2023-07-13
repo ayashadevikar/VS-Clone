@@ -5,4 +5,7 @@ This is my first project using Tailwind and it takes a lot of time. It is not re
 
 ## Here is my Output
 
-[VS Clone](https://visual-studio-clone-tailwind.netlify.app/)
+[Live Link](https://visual-studio-clone-tailwind.netlify.app/)
+
+![VS Clone](./VS-Clone%20Output.png)
+
